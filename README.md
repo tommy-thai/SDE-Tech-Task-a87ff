@@ -1,4 +1,4 @@
-# Senior Data Engineer Tech Task
+# Senior BI Tech Task
 
 ## Introduction
 This technical challenge is designed to test your expertise in SQL and dashboarding. 
@@ -36,6 +36,9 @@ Write SQL queries to answer the following questions:
 3. [ ] **Error Handling**: Gracefully handle potential errors or irregularities in inputs.
 4. [ ] **Testing**: Test your code to a sufficient extent and provide corresponding evidence.
 5. [ ] **Documentation**: A clear README.md that explains setup, execution, any assumptions made, and any other information you would include in a README.
+
+6. ## Dashboard
+    Please use the data to build a dashboard for EssenceMediacom, feel free to use tooling of your choice and do your best to show of your visualisation skills.
 
 ## How To Submit Your Solution
 Branch this repository following named using this format `applicant-[yourGithubUsername]`, e.g. user `john-smith` should create a branch `applicant-john-smith`. Commit your changes to your branch, and send a pull request to the main branch. We will review your submission and get back to you with our feedback.
