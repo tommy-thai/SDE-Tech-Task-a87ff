@@ -1,1 +1,0 @@
--- SQL queries to set up schemas in BigQuery
