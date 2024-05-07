@@ -25,13 +25,15 @@ Write SQL queries to answer the following questions:
 ### Dashboard
 Please use the data to build a dashboard for EssenceMediacom, feel free to use tooling of your choice and do your best to show of your visualisation skills.
 
+Please find a public link to the Dashboard here-> https://lookerstudio.google.com/reporting/44edf232-1f9a-40c6-96ed-2420dd95df04
+
 ## Deliverables
 1. [ ] **DB file(s)** - If you used a local DB platform, include all relevant DB files. 
-2. [ ] **SQL** - SQL schema creation file and any additional SQL query files.
-3. [ ] **SQL Answers** - Answers to the SQL analysis challenge questions in a Markdown file, including the SQL queries used.
-4. [ ] **Dashboard** - A production-ready, published dashboard.
+2. [x] **SQL** - SQL schema creation file and any additional SQL query files.
+3. [x] **SQL Answers** - Answers to the SQL analysis challenge questions in a Markdown file, including the SQL queries used.
+4. [x] **Dashboard** - A production-ready, published dashboard.
 5. [ ] **Evidence** - Evidence of successful ETL processing, such as unit test outputs, screenshots, and data files.
-6. [ ] **README** - A detailed README.md that includes all required documentation.
+6. [x] **README** - A detailed README.md that includes all required documentation.
 7. [ ] Any additional documentation you think would be helpful for understanding your approach.
 
 ## Evaluation Criteria
