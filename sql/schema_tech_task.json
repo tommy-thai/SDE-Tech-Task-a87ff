@@ -1,0 +1,71 @@
+[{
+  "column_name": "Region",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "1"
+}, {
+  "column_name": "Country",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "2"
+}, {
+  "column_name": "Item_Type",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "3"
+}, {
+  "column_name": "Sales_Channel",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "4"
+}, {
+  "column_name": "Order_Priority",
+  "data_type": "STRING",
+  "is_nullable": "YES",
+  "ordinal_position": "5"
+}, {
+  "column_name": "Order_Date",
+  "data_type": "DATE",
+  "is_nullable": "YES",
+  "ordinal_position": "6"
+}, {
+  "column_name": "Order_ID",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "7"
+}, {
+  "column_name": "Ship_Date",
+  "data_type": "DATE",
+  "is_nullable": "YES",
+  "ordinal_position": "8"
+}, {
+  "column_name": "Units_Sold",
+  "data_type": "INT64",
+  "is_nullable": "YES",
+  "ordinal_position": "9"
+}, {
+  "column_name": "Unit_Price",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES",
+  "ordinal_position": "10"
+}, {
+  "column_name": "Unit_Cost",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES",
+  "ordinal_position": "11"
+}, {
+  "column_name": "Total_Revenue",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES",
+  "ordinal_position": "12"
+}, {
+  "column_name": "Total_Cost",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES",
+  "ordinal_position": "13"
+}, {
+  "column_name": "Total_Profit",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES",
+  "ordinal_position": "14"
+}]
